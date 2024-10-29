@@ -2,36 +2,35 @@
 
 🚀 **QA Engineer | Test Automation Enthusiast | Software Quality Advocate** 🚀
 
-With over 10 years of experience in **software testing**, both frontend and backend, I specialize in ensuring that software performs flawlessly. I’m passionate about both **manual** and **automated testing** and dedicated to delivering high-quality, bug-free software.
+With over 10 years of experience in **software testing** for both frontend and backend systems, I specialize in ensuring that software performs flawlessly. I’m passionate about both **manual** and **automated testing** and dedicated to delivering high-quality, bug-free software.
 
 ---
 
 ## 🔍 About Me
 
-- 🧑‍💻 **QA Engineer** with a decade of experience across various industries, including entertainment systems and content management.
-- 🛠 **Technical Skills**: Proficient in Playwright, Selenium WebDriver, SpecFlow, C#, JavaScript, SQL, AWS, Microsoft Azure, Docker, REST API, GraphQL, RabbitMQ, and more.
-- 🛠 **Tools Expertise**: Familiar with Azure DevOps, Postman, Swagger, Chrome DevTools, Fiddler, MobaXterm, Notepad++, and others.
+- 🧑‍💻 **QA Engineer** with a decade of experience across industries like entertainment systems and content management.
+- 🛠 **Technical Skills**: Proficient in Playwright, Selenium WebDriver, SpecFlow, C#, JavaScript, SQL, Docker, REST API, GraphQL, RabbitMQ, and more.
 - 🌐 **Cloud & DevOps**: Knowledgeable in CI/CD pipelines, Docker, Linux, and Git.
-- 🎓 **Certified**: ISTQB Certified Tester – Foundation Level.
+- 🎓 **Certification**: ISTQB Certified Tester – Foundation Level.
 
 ---
 
 ## ⚙️ Technical Skills
 
-**Test Automation**:  
-- Playwright, Selenium WebDriver 
+**Test Automation**  
+- Playwright, Selenium WebDriver, SpecFlow  
 - C#, JavaScript  
 - REST API, GraphQL
 
-**Cloud & DevOps**:  
+**Cloud Technologies & DevOps**  
 - AWS, Microsoft Azure, Docker, Linux  
 - CI/CD, Git
 
-**Other Technologies**:  
+**Additional Technologies**  
 - SQL, RabbitMQ, HTML, CSS
 
-**Tools I Use**:  
-- Azure DevOps, Postman, Swagger, Chrome DevTools, Fiddler, MobaXterm, JSONLint, Glogg
+**Tools**  
+- Azure DevOps, Postman, Swagger, Chrome DevTools, Fiddler, MobaXterm, JSONLint, Glogg, and much more
 
 ---
 
@@ -42,4 +41,4 @@ With over 10 years of experience in **software testing**, both frontend and back
 
 ---
 
-🌟 I’m always open to new opportunities, collaborations, and sharing my knowledge in the world of QA and software testing. Feel free to reach out if you'd like to connect or learn more!
+🌟 I’m always open to new opportunities, collaborations, and sharing my knowledge in the field of QA and software testing. Feel free to reach out if you'd like to connect or learn more!
